@@ -1,6 +1,6 @@
 **Apple Co-op Project**
 
-**Table of Contents:\n**
+**Table of Contents:**
 1. PhotoFrame App
 2. Question Bot App
 3. Bouncy Ball App
